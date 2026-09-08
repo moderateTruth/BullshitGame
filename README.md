@@ -1,2 +1,2 @@
 # BullshitGame
-just a random site for a game
+WIP A GAME WILL BE HOSTED HERE SOON
